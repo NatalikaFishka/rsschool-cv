@@ -58,3 +58,24 @@ Developing, promotion and supporting of online stores with WordPress Engine. The
 ### June 2005 - June 2010
 #### Ufa State Petroleum Technological University
 **Specialty:** Engineer in Design and Operation of Oil and Gas Pipelines
+
+### Languages:
+- Russian – native
+- English – intermediate
+- Spanish - novice
+
+### IT skills:
+- HTML 
+- CSS 
+- WordPress 
+- UI/UX design 
+- Testing
+
+### Oil & Gas skills:
+- Oilfield 
+- Petroleum 
+- Drilling 
+- Measurements While Drilling 
+- Logging While Drilling 
+- Remote Operations 
+- Drilling Softwares (Maxwell, HSPM, etc.)
